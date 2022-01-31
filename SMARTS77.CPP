@@ -5,7 +5,6 @@
 /* update  Tishrey   5777                                       */
 /* SMARTS77.CPP, SMARTS class body                              */
 /****************************************************************/
-//Sharon Eshel: 206795528 , Eden Attias:1196606
 
 #include "smarts77.h"
 
