@@ -4,7 +4,6 @@
 /* Jerusalem College of Technology, 5759-64 (1999)                            */
 /* SchedAlgo64.CPP, short-term scheduler algorithms                */
 /****************************************************************/
-//Sharon Eshel: 206795528 , Eden Attias:1196606
 
 #include "smarts77.h"
 
