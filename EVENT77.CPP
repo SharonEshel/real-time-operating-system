@@ -5,7 +5,6 @@
 /* update Tishrey  5777     	                              */
 /* EVENT77.CPP, events handling	                              */
 /**************************************************************/
-//Sharon Eshel: 206795528 , Eden Attias:1196606
 
 #include "smarts77.h"
 
