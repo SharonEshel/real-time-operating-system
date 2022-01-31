@@ -5,7 +5,6 @@
 /* update  Tishrey   5777                                           */
 /* SMARTS77.H, main header file                                     */
 /********************************************************************/
-//Sharon Eshel: 206795528 , Eden Attias:1196606
 
 #include <conio.h>
 #include <stdio.h>
