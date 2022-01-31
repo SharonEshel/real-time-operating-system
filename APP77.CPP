@@ -6,7 +6,6 @@
 /* APP77.CPP, an application to demonstrate SMARTS77  functioning   */
 /********************************************************************/
 
-//Sharon Eshel: 206795528 , Eden Attias:1196606
 #include "smarts77.h"
 
 // user Functions
